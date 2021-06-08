@@ -2,11 +2,24 @@
 
 <!-- header is made with: https://github.com/kyechan99/capsule-render -->
 
-This repo contains code for:
 
-* Soiling chamber # 1
-* Soiling chamber # 2
-* Condensation chamber 
+This repo contains code for the following experimental equipment. More about the equipment can be found in my Ph.D. thesis : [Hydrophobic Fluoropolymer Nano-Coatings: Study of Anti-Reflective and Anti-Soiling Properties and Applications]('Hydrophobic Fluoropolymer Nano-Coatings.pdf').
+
+* Pulsed Deposition Apparatus - Ref. Chapter 2.2.1
+* Pulsed Deposition Apparatus v2 - Ref. Chapter 2.2.1
+* Simulated Dew Condensation Chamber - Ref. Chapter 2.3
+
+---
+## Pulsed Deposition Apparatus
+
+<img src="img/soil_chamber.png" width='40%'>
+
+
+## Simulated Dew Condensation Chamber
+
+<img src="img/cond_chamber.png" width='50%'>
+
+## Publications
 
 The quipment was used to publish the following papers:
 
