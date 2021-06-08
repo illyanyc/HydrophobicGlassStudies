@@ -3,7 +3,7 @@
 <!-- header is made with: https://github.com/kyechan99/capsule-render -->
 
 
-This repo contains code for the following experimental equipment. More about the equipment can be found in my Ph.D. thesis : [Hydrophobic Fluoropolymer Nano-Coatings: Study of Anti-Reflective and Anti-Soiling Properties and Applications]('Hydrophobic Fluoropolymer Nano-Coatings.pdf').
+This repo contains code for the following experimental equipment. More about the equipment can be found in my Ph.D. thesis : [Hydrophobic Fluoropolymer Nano-Coatings: Study of Anti-Reflective and Anti-Soiling Properties and Applications](https://github.com/illyanyc/HydrophobicGlassStudies/blob/a80ac762495515c271690973f0997e749500cb9a/Hydrophobic%20Fluoropolymer%20Nano-Coatings.pdf).
 
 * Pulsed Deposition Apparatus - Ref. Chapter 2.2.1
 * Pulsed Deposition Apparatus v2 - Ref. Chapter 2.2.1
